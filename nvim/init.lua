@@ -36,7 +36,7 @@ vim.cmd('colorscheme vim')
 -- Highlight settings
 hl(0, "Pmenu",          { bg = "#2d3139", fg = "#ffffff" })
 hl(0, "PmenuSel",       { bg = "#4f5b66", fg = "#ffffff", bold = true })
-hl(0, "SpecialChar",    { fg = "#00E5FF", bold = true})
+hl(0, "SpecialChar",    { fg = "#00E5FF", bold = true })
 hl(0, "Function",       { fg = "#c8a5e7", bold = true })
 
 --- Fold highlights
